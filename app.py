@@ -83,7 +83,7 @@ train_data = pd.read_csv(file_path)
 st.title("News Category Prediction")
 
 # Sidebar for navigation
-st.sidebar.image("logo.png", use_column_width=True)
+st.sidebar.image("images/vhp_img5720.jpg", use_column_width=True)
 option = st.sidebar.selectbox(
     'Select a page:',
     ['Predictions', 'EDA', 'About Us', 'Our Models']
