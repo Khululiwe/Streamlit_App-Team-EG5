@@ -1,6 +1,6 @@
 streamlit
 pandas
-clean-text
+cleantext==1.1.4
 plotly
 nltk
 wordcloud
